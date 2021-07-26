@@ -9,4 +9,6 @@ public class A_work {
     // begin to work on this new work b
 
     // trying to do more b work2
+
+    // end of b work
 }
