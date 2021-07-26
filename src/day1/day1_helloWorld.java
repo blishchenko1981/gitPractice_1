@@ -6,6 +6,7 @@ public class day1_helloWorld {
         System.out.println("Added  line on GitHub");
         System.out.println("More additions from GitHub");
         System.out.println("dont forget set up jdk");
+        System.out.println("And now Im done with this page");
         
          
     }
